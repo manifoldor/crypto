@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Look up public Binance and OKX deposit/withdraw networks and token contract addresses. No API keys.",
   "author": {
-    "name": "manifoldor"
+    "name": "yishan"
   },
   "publisher": "manifoldor",
   "homepage": "https://sibox.org",
