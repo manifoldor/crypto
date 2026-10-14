@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "crypto": {
+      "command": "python3",
+      "args": ["${CURSOR_PLUGIN_ROOT}/src/server.py"]
+    }
+  }
+}

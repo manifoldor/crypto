@@ -1,0 +1,14 @@
+{
+  "name": "crypto",
+  "displayName": "Crypto Networks",
+  "version": "1.0.0",
+  "description": "Look up public Binance and OKX deposit/withdraw networks and token contract addresses. No API keys.",
+  "author": { "name": "Yishan Lin" },
+  "publisher": "manifoldor",
+  "homepage": "https://sibox.org",
+  "repository": "https://github.com/manifoldor/crypto",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "category": "data",
+  "keywords": ["crypto", "binance", "okx", "networks", "contract-address"]
+}

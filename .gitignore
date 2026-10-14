@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.probe/
+.venv/
+.DS_Store
+TASK.md
